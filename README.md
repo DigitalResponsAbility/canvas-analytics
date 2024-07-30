@@ -1,6 +1,6 @@
 # Digital Respons-Ability Canvas Analytics
 
-Digital Respons-Ability Analytics makes REST API calls to CANVAS LMS to retrieve and analyze student data, including enrollments and participation. It generates an Excel report with visualizations. 
+Digital Respons-Ability Analytics makes REST API calls to CANVAS LMS to retrieve and analyze student data, including enrollments and participation. It generates an Excel report with visualizations.
 
 ## Recommended IDE Setup
 
